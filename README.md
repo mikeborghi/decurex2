@@ -1,3 +1,8 @@
+#swig.py contains code to create all proper aspects of two transactions.  each person makes essentially equivilent transactions, just with their keys switched in all the respective places.  Where it says use user 1's keys, use user 2's keys
+
+###This code sucks but it works.  also you need to install the pybitcointool library
+
+
 # Pybitcointools, Python library for Bitcoin signatures and transactions
 
 ### Advantages:
